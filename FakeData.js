@@ -1,59 +1,42 @@
- const students = [
-    {
-        id: 1,
-        name: "John Doe",
-        age: 16,
-        grade: "10th Grade",
-        email: "john.doe@example.com",
-    },
+const students = [
 
     {
-        id: 2,
-        name: "Jane Smith",
-        age: 17,
-        grade: "11th Grade",
-        email: "jane.smith@example.com",
+        "labeltm": "Design & Art",
+        "icontm": "Icons.draw",
+        "detailtm": "The study on the design of all building systems, including the mechanical, lighting/electrical, and structural systems of a building."
     },
-
     {
-        id: 3,
-        name: "Alex Johnson",
-        age: 15,
-        grade: "9th Grade",
-        email: "alex.johnson@example.com",
+        "labeltm": "Information Technology",
+        "icontm": "Icons.computer",
+        "detailtm": "The study on the design of all building systems, including the mechanical, lighting/electrical, and structural systems of a building."
     },
-
     {
-        id: 4,
-        name: "Emily Davis",
-        age: 18,
-        grade: "12th Grade",
-        email: "emily.davis@example.com",
+        "labeltm": "Entreprenuership",
+        "icontm": "Icons.cases",
+        "detailtm": "The study on the design of all building systems, including the mechanical, lighting/electrical, and structural systems of a building."
     },
-
     {
-        id: 5,
-        name: "Michael Brown",
-        age: 16,
-        grade: "10th Grade",
-        email: "michael.brown@example.com",
+        "labeltm": "Medical",
+        "icontm": "Icons.medical_information",
+        "detailtm": "The study on the design of all building systems, including the mechanical, lighting/electrical, and structural systems of a building."
     },
-
     {
-        id: 6,
-        name: "Sarah Wilson",
-        age: 17,
-        grade: "11th Grade",
-        email: "sarah.wilson@example.com",
+        "labeltm": "Medical",
+        "icontm": "Icons.medical_information",
+        "detailtm": "The study on the design of all building systems, including the mechanical, lighting/electrical, and structural systems of a building."
     },
-    
     {
-        id: 7,
-        name: "Daniel Lee",
-        age: 15,
-        grade: "9th Grade",
-        email: "daniel.lee@example.com",
+        "labeltm": "Foreign Language",
+        "icontm": "Icons.language",
+        "detailtm": "The study on the design of all building systems, including the mechanical, lighting/electrical, and structural systems of a building."
+    },
+    {
+        "labeltm": "Banking & Finance",
+        "icontm": "Icons.money",
+        "detailtm": "The study on the design of all building systems, including the mechanical, lighting/electrical, and structural systems of a building."
     }
-    
+
+
+
 ];
 module.exports = students;
